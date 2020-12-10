@@ -1,0 +1,12 @@
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\bin\Debug\netcoreapp3.1\CompanyModel.deps.json
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\bin\Debug\netcoreapp3.1\CompanyModel.runtimeconfig.json
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\bin\Debug\netcoreapp3.1\CompanyModel.runtimeconfig.dev.json
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\bin\Debug\netcoreapp3.1\CompanyModel.dll
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\bin\Debug\netcoreapp3.1\CompanyModel.pdb
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.csprojAssemblyReference.cache
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.AssemblyInfoInputs.cache
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.AssemblyInfo.cs
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.csproj.CoreCompileInputs.cache
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.dll
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.pdb
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyModel\obj\Debug\netcoreapp3.1\CompanyModel.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\bin\Debug\netcoreapp3.1\CompanyData.deps.json
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\bin\Debug\netcoreapp3.1\CompanyData.runtimeconfig.json
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\bin\Debug\netcoreapp3.1\CompanyData.runtimeconfig.dev.json
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\bin\Debug\netcoreapp3.1\CompanyData.dll
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\bin\Debug\netcoreapp3.1\CompanyData.pdb
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\bin\Debug\netcoreapp3.1\CompanyModel.dll
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\bin\Debug\netcoreapp3.1\CompanyModel.pdb
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\obj\Debug\netcoreapp3.1\CompanyData.csprojAssemblyReference.cache
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\obj\Debug\netcoreapp3.1\CompanyData.AssemblyInfoInputs.cache
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\obj\Debug\netcoreapp3.1\CompanyData.AssemblyInfo.cs
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\obj\Debug\netcoreapp3.1\CompanyData.csproj.CoreCompileInputs.cache
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\obj\Debug\netcoreapp3.1\CompanyData.csproj.CopyComplete
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\obj\Debug\netcoreapp3.1\CompanyData.dll
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\obj\Debug\netcoreapp3.1\CompanyData.pdb
+C:\Users\liangsimin\source\repos\CompanyMVC\CompanyData\obj\Debug\netcoreapp3.1\CompanyData.genruntimeconfig.cache
